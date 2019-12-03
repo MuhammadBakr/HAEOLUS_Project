@@ -1,0 +1,2 @@
+# HAEOLUS_Project
+Via  an  implementation  of  an  optimal  controller  whichfollows the sequential optimization technique and mixed-integerlinear constraints and dynamics, the problem of output powerfluctuations  and  smooth  tracking  of  load  demand  is  presentedfor hydrogen-based plant. We illustrate the effectiveness of theproposed controller with a simulation example, employing realwind farm data under a variety of hard constraints. Numerical simulations  corroborate  the  feasibility  and  the  effectiveness  of the  proposed  approach
